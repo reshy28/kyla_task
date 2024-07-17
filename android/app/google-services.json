@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780923505219",
+    "project_id": "kyla-ba739",
+    "storage_bucket": "kyla-ba739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780923505219:android:5776978ba83011dff322f6",
+        "android_client_info": {
+          "package_name": "com.example.kyla_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClMxkOFeBpsnQ4y7BX7LG7bSqiVs1QqAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
